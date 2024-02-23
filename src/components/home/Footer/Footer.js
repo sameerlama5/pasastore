@@ -151,6 +151,7 @@ const Footer = () => {
                       {errMsg}
                     </p>
                   )}
+                </div>
                 <button
                 type="submit"
                   onClick={handleSubscription}
@@ -158,7 +159,6 @@ const Footer = () => {
                 >
                   Subscribe
                 </button>
-                </div>
               </div>
             )}
 
