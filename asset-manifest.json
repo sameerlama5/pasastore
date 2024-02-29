@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pasastore/static/css/main.6159e205.css",
-    "main.js": "/pasastore/static/js/main.6eaeb200.js",
+    "main.js": "/pasastore/static/js/main.d8b4b090.js",
     "static/media/bannerImgTwo.webp": "/pasastore/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
     "static/media/bannerImgThree.webp": "/pasastore/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
     "static/media/saleImgTwo.webp": "/pasastore/static/media/saleImgTwo.ecb733524e878406c281.webp",
@@ -24,10 +24,10 @@
     "static/media/newArrOne.webp": "/pasastore/static/media/newArrOne.5982a995e5c312914fe6.webp",
     "index.html": "/pasastore/index.html",
     "main.6159e205.css.map": "/pasastore/static/css/main.6159e205.css.map",
-    "main.6eaeb200.js.map": "/pasastore/static/js/main.6eaeb200.js.map"
+    "main.d8b4b090.js.map": "/pasastore/static/js/main.d8b4b090.js.map"
   },
   "entrypoints": [
     "static/css/main.6159e205.css",
-    "static/js/main.6eaeb200.js"
+    "static/js/main.d8b4b090.js"
   ]
 }
