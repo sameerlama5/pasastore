@@ -38,7 +38,7 @@ const Layout = () => {
 };
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route basename="/pasastore">
+    <Route>
       <Route path="/" element={<Layout />}>
         {/* ==================== Header Navlink Start here =================== */}
         <Route index element={<Home />}></Route>

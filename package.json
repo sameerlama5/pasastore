@@ -1,5 +1,4 @@
 {
-  "homepage": "https://sameerlama5.github.io/pasastore",
   "name": "pasastore",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +15,7 @@
     "react-icons": "^4.7.1",
     "react-paginate": "^8.1.4",
     "react-redux": "^8.0.5",
-    "react-router-dom": "^6.6.0",
+    "react-router-dom": "^6.22.2",
     "react-scripts": "5.0.1",
     "react-slick": "^0.29.0",
     "redux-persist": "^6.0.0",
