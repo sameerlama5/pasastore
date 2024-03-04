@@ -10,6 +10,7 @@ export const orebiSlice = createSlice({
   initialState,
   reducers: {
     addToCart: (state, action) => {
+      alert("Added to cart successfully...")
       const item = state.products.find(
         (item) => item._id === action.payload._id
       );
